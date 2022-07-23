@@ -56795,7 +56795,7 @@ E(a,b){var s=null
 return A.d5(s,A.c9(A.b([A.Z(s,100,s),A.bc(u.c,$.ahx(),B.jG,s),A.Z(s,70,s),A.bc(u.r,$.ahw(),B.bo,s),A.Z(s,70,s),A.e1("assets/images/iot_image.png",s,s,s),A.Z(s,70,s)],t.D),B.G,B.z),B.n,s,s,s,s,s,s,new A.aD(30,0,30,0),s,s,s)}}
 A.Da.prototype={
 E(a,b){var s=null,r=this.c
-return A.d5(s,A.c9(A.b([A.bc("WHAT WE PROVIDE",$.a7e(),s,s),A.Z(s,30,s),A.bc("IoT SOLUTIONS",$.a7d(),s,s),A.Z(s,40,s),new A.iC(B.yD,"CCTV",u.h,r,800,s),A.Z(s,40,s),new A.iC(B.kU,"Access Control System",u.W,r,1200,s),A.Z(s,40,s),new A.iC(B.kV,"Smart Home",u.T,r,1700,s),A.Z(s,40,s),new A.iC(B.kS,"Server",u.N,r,2200,s),A.Z(s,40,s),new A.iC(B.kT,"Vitrual Reality",u.U,r,2850,s),A.Z(s,40,s),new A.iC(B.kW,"NFT",u.b,r,3500,s),A.Z(s,40,s)],t.D),B.G,B.z),B.n,s,s,s,s,s,s,new A.aD(30,0,30,0),s,s,s)}}
+return A.d5(s,A.c9(A.b([A.bc("WHAT WE PROVIDE",$.a7e(),s,s),A.Z(s,30,s),A.bc("IoT SOLUTIONS",$.a7d(),s,s),A.Z(s,40,s),new A.iC(B.yD,"CCTV",u.h,r,800,s),A.Z(s,40,s),new A.iC(B.kU,"Access Control System",u.W,r,1200,s),A.Z(s,40,s),new A.iC(B.kV,"Smart Home",u.T,r,1700,s),A.Z(s,40,s),new A.iC(B.kS,"Server",u.N,r,2200,s),A.Z(s,40,s),new A.iC(B.kT,"Vitrual Reality",u.U,r,2850,s),A.Z(s,40,s),new A.iC(B.kW,"NFT",u.b,r,3300,s),A.Z(s,40,s)],t.D),B.G,B.z),B.n,s,s,s,s,s,s,new A.aD(30,0,30,0),s,s,s)}}
 A.iC.prototype={
 E(a,b){var s,r,q=this,p=null,o=b.Y(t.w).f,n=A.bv(0,0,2),m=q.f>q.r,l=m?1:0
 m=m?0:300
